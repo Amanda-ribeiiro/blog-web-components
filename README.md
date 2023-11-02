@@ -11,7 +11,7 @@
 
 ## Blog
 
-> Este projeto foi desenvolvido como parte do módulo "Trabalhando com Web Components no Front-end" do curso "Ganhando Produtividade com Angular". O intuito era criar um blog dinâmico, e eu resolvi fazer sobre os filmes do Harry Potter, pois sou fã. Ele foi criado usando Angular e Web Components. O blog exibe informações sobre os filmes, como autor, título, link, foto e conteúdo. Ao passar o mouse sobre um card, uma gif do filme é exibida, dando um toque interativo.
+> Este projeto foi desenvolvido como parte do módulo "Trabalhando com Web Components no Front-end" do curso "Ganhando Produtividade com Angular".O objetivo era criar um blog dinâmico, e eu resolvi fazer sobre os filmes do Harry Potter, pois sou fã. Ele foi criado usando Angular e Web Components. O blog exibe informações sobre os filmes, como autor, título, link, foto e conteúdo. Ao passar o mouse sobre um card, uma gif do filme é exibida, dando um toque interativo.
 
 ##
 
