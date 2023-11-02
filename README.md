@@ -40,3 +40,7 @@ Web Components são uma ótima maneira de melhorar a organização, a reutiliza�
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Web Components](https://img.shields.io/badge/Web%20Components-blue?logo=webcomponents.org)
+
+
+##
+<div align="center">Desenvolvido por <a href="https://github.com/Amanda-ribeiiro">Amanda</a>.</div>
