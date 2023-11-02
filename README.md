@@ -9,10 +9,11 @@
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/trabalhando-com-web-components-no-front-end/learning/de8b3fd6-71a4-42d2-80b4-05f9bad77bc1?back=/track/santander-bootcamp-2023-fullstack-java-angular&tab=undefined&moduleId=undefined)
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/trabalhando-com-web-components-no-front-end/learning/de8b3fd6-71a4-42d2-80b4-05f9bad77bc1?back=/track/santander-bootcamp-2023-fullstack-java-angular&tab=undefined&moduleId=undefined)
 
-## Blog 
+## Blog
 
 > Este projeto foi desenvolvido como parte do módulo "Trabalhando com Web Components no Front-end" do curso "Ganhando Produtividade com Angular". O intuito era criar um blog dinâmico, e eu resolvi fazer sobre os filmes do Harry Potter, pois sou fã. Ele foi criado usando Angular e Web Components. O blog exibe informações sobre os filmes, como autor, título, link, foto e conteúdo. Ao passar o mouse sobre um card, uma gif do filme é exibida, dando um toque interativo.
 
+<video src="video.mp4" controls title="Title"></video>
 
 ## Web Components:
 Web Components são uma coleção de tecnologias que permitem criar elementos HTML customizados, que podem ser reutilizados em diferentes aplicações web. Os Web Components são compostos por três tecnologias principais:
